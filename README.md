@@ -1,0 +1,1 @@
+JavaScript Task displaying strings, numbers, arrays, and loops,
